@@ -74,5 +74,5 @@ After setting the rule the IPS parameter was run on the host to detect and block
 Final Answers to the TASK 2 Questions on TryHackMe
 
 <p align="center">
-<img src="https://i.imgur.com/yLX4YeG.png" height="80%" width="80%" alt="Snort Challenge Live Attack"/>
+<img src="https://i.imgur.com/bYhKdoN.png" height="80%" width="80%" alt="Snort Challenge Live Attack"/>
 
