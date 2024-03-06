@@ -70,6 +70,11 @@ After setting the rule the IPS parameter was run on the host to detect and block
 <p align="center">
 <img src="https://i.imgur.com/0HiDCs9.png" height="80%" width="80%" alt="Snort Challenge Live Attack"/>
 
+The final question asked for a tool associated with the specific port number number. 
+
+<p align="center">
+<img src="https://i.imgur.com/5AXd18Y.png" height="80%" width="80%" alt="Snort Challenge Live Attack"/>
+
  
 Final Answers to the TASK 2 Questions on TryHackMe
 
