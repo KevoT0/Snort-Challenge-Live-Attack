@@ -8,7 +8,7 @@ This a hands-on project SNORT using IDS/IPS to collect logs and create rules
 - <b>Ubuntu OS</b>
 
 <h2>Environments Used </h2>
-- <b>Virtual Machine</b>
+- <b>THM Virtual Machine</b>
 
 <h2>Walk-through:</h2>
 
@@ -33,5 +33,14 @@ After performing the packet logger mode, I analyze the packet gotten from after 
 <p align="center">
 <img src="https://i.imgur.com/Uyq6izC.png" height="80%" width="80%" alt="Snort Challenge Live Attack"/>
 
+After setting the rule the IPS parameter was run on the host to detect and block any SSH traffic trying to brute force into the host device.
+
+<p align="center">
+<img src="https://i.imgur.com/NMb0L4U.png" height="80%" width="80%" alt="Snort Challenge Live Attack"/>
 
  
+Final Answers to the TASK 1 Questions on TryHackMe
+
+<p align="center">
+<img src="https://i.imgur.com/yLX4YeG.png" height="80%" width="80%" alt="Snort Challenge Live Attack"/>
+
