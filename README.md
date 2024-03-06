@@ -55,10 +55,10 @@ Here are the steps taken to solve the problems in Task 2
 <p align="center">
 <img src="https://i.imgur.com/ZhBYge3.png" height="80%" width="80%" alt="Snort Challenge Live Attack"/>
 
-After performing the packet logger mode, I analyze the packet gotten from after utilizing the power of snort. I observed that 877 packets were for TCP.
+After performing the packet logger mode, I analyze the packet gotten from after utilizing the power of snort. I observed TCP packets.
 
 <p align="center">
-<img src="https://i.imgur.com/vBwWVut.png" height="80%" width="80%" alt="Snort Challenge Live Attack"/>
+<img src="https://i.imgur.com/XjaAcMS.png" height="80%" width="80%" alt="Snort Challenge Live Attack"/>
 
  A suspicious IP was found targeting SSH, having discovered this an IPS rule was created to detect any SSH traffic going into the network.
 
