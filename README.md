@@ -26,17 +26,17 @@ Here are the steps taken to solve the problems in Task 1
 After performing the packet logger mode, I analyze the packet gotten from after utilizing the power of snort. I observed TCP packets.
 
 <p align="center">
-<img src="https://i.imgur.com/vynJ5Ue.png" height="80%" width="80%" alt="Snort Challenge Live Attack"/>
+<img src="https://i.imgur.com/D7KP1uz.png" height="80%" width="80%" alt="Snort Challenge Live Attack"/>
 
- A suspicious IP was found with port 4444, having discovered this an IPS rule was created to detect any TCP traffic going into the network.
+ A suspicious IP was found targeting SSH, having discovered this an IPS rule was created to detect any SSH traffic going into the network.
 
 <p align="center">
-<img src="https://i.imgur.com/vPHvaCg.png" height="80%" width="80%" alt="Snort Challenge Live Attack"/>
+<img src="https://i.imgur.com/Uyq6izC.png" height="80%" width="80%" alt="Snort Challenge Live Attack"/>
 
 After setting the rule the IPS parameter was run on the host to detect and block any SSH traffic trying to brute force into the host device.
 
 <p align="center">
-<img src="https://i.imgur.com/SMuXhpl.png" height="80%" width="80%" alt="Snort Challenge Live Attack"/>
+<img src="https://i.imgur.com/C25S26Z.png" height="80%" width="80%" alt="Snort Challenge Live Attack"/>
 
  
 Final Answers to the TASK 1 Questions on TryHackMe
@@ -60,15 +60,15 @@ After performing the packet logger mode, I analyze the packet gotten from after 
 <p align="center">
 <img src="https://i.imgur.com/XjaAcMS.png" height="80%" width="80%" alt="Snort Challenge Live Attack"/>
 
- A suspicious IP was found targeting SSH, having discovered this an IPS rule was created to detect any SSH traffic going into the network.
+ A suspicious IP was found with port 4444, having discovered this an IPS rule was created to detect any TCP traffic going into the network.
 
 <p align="center">
-<img src="https://i.imgur.com/Uyq6izC.png" height="80%" width="80%" alt="Snort Challenge Live Attack"/>
+<img src="https://i.imgur.com/vPHvaCg.png" height="80%" width="80%" alt="Snort Challenge Live Attack"/>
 
-After setting the rule the IPS parameter was run on the host to detect and block any SSH traffic trying to brute force into the host device.
+After setting the rule the IPS parameter was run on the host to detect and block any Reverse shell traffic trying to gain access to the host device.
 
 <p align="center">
-<img src="https://i.imgur.com/NMb0L4U.png" height="80%" width="80%" alt="Snort Challenge Live Attack"/>
+<img src="https://i.imgur.com/0HiDCs9.png" height="80%" width="80%" alt="Snort Challenge Live Attack"/>
 
  
 Final Answers to the TASK 2 Questions on TryHackMe
