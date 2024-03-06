@@ -12,7 +12,7 @@ This a hands-on project SNORT using IDS/IPS to collect logs and create rules
 
 <h2>Walk-through:</h2>
 
-<h3>TASK 1: Brute-Force </h3>
+<h3><b>TASK 1: Brute-Force</b></h3>
 <p align="center">
 <img src="https://i.imgur.com/jk8bSnF.png" height="80%" width="80%" alt="Snort Challenge Live Attack"/>
  
