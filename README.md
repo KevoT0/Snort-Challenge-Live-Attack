@@ -46,7 +46,7 @@ Final Answers to the TASK 1 Questions on TryHackMe
 
 <h3>TASK 2: Reverse-Shell </h3>
 <p align="center">
-<img src="https://i.imgur.com/KUEEvET.png" height="80%" width="80%" alt="Snort Challenge Live Attack"/>
+<img src="https://i.imgur.com/0yNHRRe.png" height="80%" width="80%" alt="Snort Challenge Live Attack"/>
  
 Here are the steps taken to solve the problems in Task 2
 
