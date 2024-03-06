@@ -53,7 +53,7 @@ Here are the steps taken to solve the problems in Task 2
 - Perform a scan utilizing the Packet logger mode to
 
 <p align="center">
-<img src="https://i.imgur.com/ZhBYge3.png" height="80%" width="80%" alt="Snort Challenge Live Attack"/>
+<img src="https://i.imgur.com/0yNHRRe.png" height="80%" width="80%" alt="Snort Challenge Live Attack"/>
 
 After performing the packet logger mode, I analyze the packet gotten from after utilizing the power of snort. I observed that 877 packets were for TCP.
 
@@ -71,7 +71,7 @@ After setting the rule the IPS parameter was run on the host to detect and block
 <img src="https://i.imgur.com/NMb0L4U.png" height="80%" width="80%" alt="Snort Challenge Live Attack"/>
 
  
-Final Answers to the TASK 1 Questions on TryHackMe
+Final Answers to the TASK 2 Questions on TryHackMe
 
 <p align="center">
 <img src="https://i.imgur.com/yLX4YeG.png" height="80%" width="80%" alt="Snort Challenge Live Attack"/>
